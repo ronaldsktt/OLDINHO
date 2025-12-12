@@ -14,7 +14,7 @@ const PRODUTOS = {
   },
 
     'leticia': {
-    nome: 'Leticia miranda',
+    nome: 'Novinha do velhinho💕🔥',
     bot_url: 'https://t.me/Mirella_bot?start=adsmirella',
     grupo_vip: 'https://t.me/+LINK_GRUPO_MIRELLA',
     foto: './imagens/01.png',

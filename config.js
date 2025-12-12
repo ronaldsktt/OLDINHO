@@ -4,10 +4,10 @@
 const PRODUTOS = {
   
   
-  'mirella': {
-    nome: 'Mirella',
-    bot_url: 'https://t.me/Mirella_bot?start=adsmirella',
-    grupo_vip: 'https://t.me/+LINK_GRUPO_MIRELLA',
+  'mirellasds': {
+    nome: 'Mirellas',
+    bot_url: 'https://apextry.com/go/novinhaz',
+    grupo_vip: 'https://t.me/+g0eZXl5W87xkYjc8',
     foto: 'https://i.postimg.cc/FOTO_MIRELLA.jpg',
     cor_primaria: '#ff6b9d',
     cor_secundaria: '#c44569'
@@ -15,8 +15,8 @@ const PRODUTOS = {
 
     'leticia': {
     nome: 'Novinha do velhinho💕🔥',
-    bot_url: 'https://t.me/Mirella_bot?start=adsmirella',
-    grupo_vip: 'https://t.me/+LINK_GRUPO_MIRELLA',
+    bot_url: 'https://apextry.com/go/novinhaz',
+    grupo_vip: 'https://t.me/+g0eZXl5W87xkYjc8',
     foto: './imagens/01.png',
     cor_primaria: '#229ED9',
     cor_secundaria: '#229ED9'

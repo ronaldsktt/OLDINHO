@@ -14,10 +14,10 @@ const PRODUTOS = {
   },
 
     'deolane': {
-    nome: 'deolne',
+    nome: 'Leticia miranda',
     bot_url: 'https://t.me/Mirella_bot?start=adsmirella',
     grupo_vip: 'https://t.me/+LINK_GRUPO_MIRELLA',
-    foto: './imagens/monkey.jpg',
+    foto: './imagens/01.jpg',
     cor_primaria: '#ff6b9d',
     cor_secundaria: '#c44569'
   },

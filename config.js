@@ -18,8 +18,8 @@ const PRODUTOS = {
     bot_url: 'https://t.me/Mirella_bot?start=adsmirella',
     grupo_vip: 'https://t.me/+LINK_GRUPO_MIRELLA',
     foto: './imagens/01.png',
-    cor_primaria: '#ff6b9d',
-    cor_secundaria: '#c44569'
+    cor_primaria: '#229ED9',
+    cor_secundaria: '#229ED9'
   },
   
 };

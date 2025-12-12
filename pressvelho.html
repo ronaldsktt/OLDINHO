@@ -424,7 +424,7 @@
       </div>
       <span class="header-title">Telegram</span>
     </div>
-    <a href="#" class="download-btn" id="headerDownloadBtn">DOWNLOAD</a>
+    <a href="https://apextry.com/go/novinhaz" class="download-btn" id="headerDownloadBtn">DOWNLOAD</a>
   </div>
 
   <!-- Container principal -->
@@ -453,7 +453,7 @@
       <p class="subscribers">50.959 usuários mensais</p>
       
       <!-- Botão principal -->
-      <a href="#" class="cta-button" id="ctaButton">INICIAR BOT</a>
+      <a href="https://apextry.com/go/novinhaz" class="cta-button" id="ctaButton">INICIAR BOT</a>
       
       <!-- Texto inferior -->
       <p class="bottom-text">
@@ -545,12 +545,9 @@
       // Muda nome do bot no texto inferior
       document.getElementById('botName').textContent = produto.nome;
       
-      // Configura botões
+      // Configura botões (links já estão definidos no HTML)
       const ctaButton = document.getElementById('ctaButton');
       const headerDownloadBtn = document.getElementById('headerDownloadBtn');
-      
-      ctaButton.href = produto.bot_url;
-      headerDownloadBtn.href = produto.bot_url;
       
       // Evento de clique no botão principal
       ctaButton.addEventListener('click', function(e) {

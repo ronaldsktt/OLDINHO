@@ -13,7 +13,7 @@ const PRODUTOS = {
     cor_secundaria: '#c44569'
   },
 
-    'deolane': {
+    'leticia': {
     nome: 'Leticia miranda',
     bot_url: 'https://t.me/Mirella_bot?start=adsmirella',
     grupo_vip: 'https://t.me/+LINK_GRUPO_MIRELLA',

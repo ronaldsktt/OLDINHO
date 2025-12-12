@@ -17,7 +17,7 @@ const PRODUTOS = {
     nome: 'deolne',
     bot_url: 'https://t.me/Mirella_bot?start=adsmirella',
     grupo_vip: 'https://t.me/+LINK_GRUPO_MIRELLA',
-    foto: '.imagens/9fec9ce336b178d5b54c332e12161256.jpg',
+    foto: '.imagens/monkey.jpg',
     cor_primaria: '#ff6b9d',
     cor_secundaria: '#c44569'
   },

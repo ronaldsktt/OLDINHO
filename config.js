@@ -15,7 +15,7 @@ const PRODUTOS = {
 
     'leticia': {
     nome: 'Novinha do velhinho💕🔥',
-    bot_url: 'https://apextry.com/go/novinhaz',
+    bot_url: 'https://apextry.com/go/velhinho',
     grupo_vip: 'https://t.me/+g0eZXl5W87xkYjc8',
     foto: './imagens/01.png',
     cor_primaria: '#229ED9',

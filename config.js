@@ -6,7 +6,7 @@ const PRODUTOS = {
   
   'mirellasds': {
     nome: 'Mirellas',
-    bot_url: 'https://apextry.com/go/novinhaz',
+    bot_url: 'https://apextry.com/go/velhinho',
     grupo_vip: 'https://t.me/+g0eZXl5W87xkYjc8',
     foto: 'https://i.postimg.cc/FOTO_MIRELLA.jpg',
     cor_primaria: '#ff6b9d',
